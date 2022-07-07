@@ -9,7 +9,7 @@ You can use test data for the first time. You can add new staff when you log in 
 ### Staff
 * ID:1111 Password:password
 * ID:3333 Password:david  
-(Modifing the data file directoly may make problem.)  
+
 
 ## Show menu
 You can see all menu items by clicking ALL button, and items in particular categories by clicking Drink, Alcohol, Main, or Dessert button.  
